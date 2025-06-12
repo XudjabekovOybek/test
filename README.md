@@ -22,7 +22,9 @@ I love building web and mobile apps with React, Node.js, Python, and more!
 
 ## 🏆 My GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bakhodirbekov&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=XudjabekovOybek&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
 </p>
 
 ---
