@@ -1,6 +1,6 @@
 <!-- Animated Typing Title -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30¢er=true&vCenter=true&width=1000&height=80&lines=I'm+Oybek+Xudjabekov;Full-Stack+Developer;Welcome+to+My+GitHub!+🌟" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=1000&height=80&lines=I'm+Oybek+Xudjabekov;Full-Stack+Developer;Welcome+to+My+GitHub!+🌟" alt="Typing SVG" />
 </p>
 
 <!-- Visitor Count -->
@@ -61,4 +61,4 @@ I love building web and mobile apps with React, Node.js, Python, and more!
 </p>
 
 <!-- Footer Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120§ion=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
